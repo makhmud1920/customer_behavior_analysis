@@ -12,5 +12,4 @@ Analyzed customer purchasing patterns using Python, PostgreSQL, and Power BI. Th
 - **PostgreSQL**
 - **Power BI**
 
-## Notes
-This project was completed with the help of ChatGPT and online tutorial videos.
+
